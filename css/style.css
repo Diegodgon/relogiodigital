@@ -50,3 +50,11 @@ body {
     font-size: 15px;
 
 }
+
+div#p {
+    position: absolute;
+    top: 70px;
+    font-size: 85px;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+}
